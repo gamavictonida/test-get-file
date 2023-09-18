@@ -24,7 +24,9 @@ export default function Home() {
             {/*  height={24}*/}
             {/*  priority*/}
             {/*/>*/}
-            <iframe src="http://10.14.152.85:8081/downloadFile/2023/9/d5dede05-bdb8-4532-90c0-38a17399b7dc.pdf" style={{ height: '555px', width: '100%' }}/>
+            {/*<iframe src="http://10.14.152.85:8081/downloadFile/2023/9/d5dede05-bdb8-4532-90c0-38a17399b7dc.pdf" style={{ height: '555px', width: '100%' }}/>*/}
+            <iframe src="http://10.14.153.240:8000/upload-esppd/download/bed37e9a-166a-4743-9984-919ffa2b9f68.pdf" style={{ height: '111px', width: '100%' }}/>
+            <iframe src="https://10.14.153.240:8000/upload-esppd/download/bed37e9a-166a-4743-9984-919ffa2b9f68.pdf" style={{ height: '555px', width: '100%' }}/>
           </a>
         </div>
       </div>
